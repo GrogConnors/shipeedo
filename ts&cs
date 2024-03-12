@@ -1,57 +1,6 @@
-<style>
-    ol {
-        counter-reset: my-counter 0;
-        list-style-type: none;
-        margin-bottom: 24px;
-    }
-
-    li::marker {
-        content: counters(my-counter, '.')" ";
-    }
-
-    li {
-        counter-increment: my-counter;
-        margin-bottom: 16px;
-    }
-
-    ol ol ol {
-        counter-reset: l3 0;
-        list-style-type: none;
-    }
-
-    ol ol ol li::marker {
-        content: counter(l3, lower-alpha)" ";
-        color: blue;
-    }
-
-    ol ol ol li {
-        counter-increment: l3;
-        color: blue;
-    }
-
-    ol ol ol ol {
-        counter-reset: l3 0;
-        list-style-type: none;
-    }
-
-    ol ol ol ol li::marker {
-        content: counter(l3, lower-roman)" ";
-        color: red;
-    }
-
-    ol ol ol ol li {
-        counter-increment: l3;
-        color: red;
-    }
-
-    .anom::marker {
-        content: counter(l3, lower-alpha)" ";
-        color: red;
-    }
-</style>
 
 <OL>
-    <LI>Definitions</LI> <!--1-->
+    <Li>Definitions</Li> <!--1-->
     <ol>
         <li>Definitions</li>
         <p>In this document, the following definitions will apply:</p>
@@ -264,105 +213,132 @@
         </ol>
     </ol>
 
-    <LI>Nature of Services and terms of supply <!--2-->
-        <OL>
-            <LI>These Terms apply to the supply of all Services. Terms and conditions, if any, contained in any
-                documentation provided by the Customer (including any transport document such as a bill of
-                lading, waybill or consignment note) are excluded and do not apply.</LI>
-            <LI>The Terms may be amended from time to time by the Company by notice to the Customer.
-                The amended Terms will apply to any Order or part of an Order from the date on which the
-                Company notifies the Customer of that change.</LI>
-            <LI>The Customer acknowledges the Company:</LI>
-            <OL>
-                <LI>is not a common Carrier and accepts no liability as such;</LI>
-                <LI>reserves the right to open and weigh all the Customer’s Goods and do any other thing
+    <li>Nature of Services and terms of supply</li>
+    <ol>
+        <li>These Terms apply to the supply of all Services. Terms and conditions, if any, contained in any
+            documentation provided by the Customer (including any transport document such as a bill of
+            lading, waybill or consignment note) are excluded and do not apply.
+        </li>
+        <li>
+            The Terms may be amended from time to time by the Company by notice to the Customer.
+            The amended Terms will apply to any Order or part of an Order from the date on which the
+            Company notifies the Customer of that change.
+        </li>
+        <li>
+            The Customer acknowledges the Company:
+            <ol>
+                <li>is not a common Carrier and accepts no liability as such;</li>
+                <li>reserves the right to open and weigh all the Customer’s Goods and do any other thing
                     necessary in order to inspect all Goods at its discretion (including to determine the
                     weight, nature, condition, ownership or end-destination of the Goods) and at the
-                    Customer’s expense;</LI>
-                <LI>may refuse at its sole and absolute discretion to accept any Goods for Carriage or
-                    storage without assigning any reason; and</LI>
-                <LI>uses third party carriers and the Customer must comply with any applicable terms and
-                    condition of that third party carrier with regard to provision of the Services.</LI>
-
-            </OL>
-        </OL>
-    </LI>
-
-
-    <LI>Nature of Services and terms of supply <!--3-->
-        <OL>
-            <OL>
-                <LI>These Terms apply to the supply of all Services. Terms and conditions, if any, contained in any
-                    documentation provided by the Customer (including any transport document such as a bill of
-                    lading, waybill or consignment note) are excluded and do not apply.
-                    <OL>
-                        <LI>then the Customer may be required to enter into a further contractual
-                            agreement with the carrier regarding that portion of transport in order to limit
-                            liability on behalf of the carrier; or</LI>
-                        <LI>where the transport was unforeseen, the limitation of liability provisions in
-                            place for the foreseen transport will extend to the unforeseen transport, even
-                            where that liability provision does not envision transport of that kind; and</LI>
-                    </OL>
-
-                </LI>
-                <li>the Company, its Related Companies and the Company Personnel are obliged to
-                    comply with certain conditions and Laws in respect of Licences in relation to the
-                    Goods or Services and neither the Company, its Related Companies or the Company
-                    Personnel are in breach of these Terms or in their obligations to the Customer in
-                    complying with such conditions or Laws</li>
-                <LI>Without limiting the generality of clause 2.4, the Customer also acknowledges and
-                    agrees:
-                    <OL>
-                        <LI>the Company's Reporting Obligations may require the Company, its Related
-                            Companies and the Company Personnel to disclose a breach or possible
-                            breach of any Customs Related Law to any Government Authority;</LI>
-                        <LI>neither the Company, its Related Companies or the Company Personnel will
-                            have any liability to the Customer or any other party arising from compliance
-                            with its Reporting Obligations or the conditions of its licences; and</LI>
-                        <li>the Customer must indemnify and keep indemnified the Company, its Related
-                            Companies and the Company Personnel from all costs and liabilities they
-                            incur in relation to their Reporting Obligations in respect of the Services or in
-                            relation to the Goods, including all legal costs which include, without limitation
-                            any legal costs incurred in determining whether a Reporting Obligation has
-                            arisen.</li>
-
-                    </OL>
-
-                </LI>
-                <li>The Customer acknowledges that the Company complies with its obligations under
-                    applicable Privacy Laws.</li>
-                <li>The Customer agrees that the Company may treat or otherwise deal with the Goods
-                    as directed or required by any Government Authority regarding any biosecurity or
-                    other risks.</li>
-            </OL>
-        </OL>
-    </LI>
-
-    <LI>Nature of Services and terms of supply <!--4-->
-        <ol>
-            <ol>
-                <li>Subject to the effect of clause 3(b) of these Terms, by agreeing to these Terms the
-                    Customer, constitutes and appoints the Company as its lawful attorney with full
-                    irrevocable power and authority to take any and all action and to execute any and all
-                    documents and instruments, in the name of and on behalf of the Customer, as may be
-                    required or for the purpose of carrying out the terms of this document.</li>
-                <li>Notwithstanding that the Customer appoints the Company as its attorney, the power
-                    and authority vested in the attorney is effective if and when the Customer fails to
-                    comply with a request within the required time or in the event of a default of the
-                    Customer.</li>
-                <li>The Customer acknowledges that the Company will not be liable for any loss or
-                    penalty incurred by the Customer as a result of:
-                    <ol>
-                        <li>any delay by an attorney in exercising their powers; or</li>
-                        <li>an attorney not exercising its powers.</li>
-                    </ol>
+                    Customer’s expense;
                 </li>
-                <li>The Customer indemnifies and will keep indemnified the Company against any
-                    reasonable loss or costs it suffers or incurs in exercising powers under this power of
-                    attorney.</li>
+                <li>may refuse at its sole and absolute discretion to accept any Goods for Carriage or
+                    storage without assigning any reason; and</li>
+                <li>uses third party carriers and the Customer must comply with any applicable terms and
+                    condition of that third party carrier with regard to provision of the Services.</li>
             </ol>
+        </li>
+    </ol>
+
+    <li>The Customer further acknowledges and agrees:</li>
+    <ol>
+        <ol>
+            <li>where terms of Carriage are limited pursuant to any Law, bill of lading or airway bill,
+                and the transport of the Goods extends or requires transport outside and beyond the
+                terms provided for in that Law, bill of lading or airway bill:
+                <ol>
+                    <li>then the Customer may be required to enter into a further contractual
+                        agreement with the carrier regarding that portion of transport in order to limit
+                        liability on behalf of the carrier; or
+                    </li>
+                    <li>where the transport was unforeseen, the limitation of liability provisions in
+                        place for the foreseen transport will extend to the unforeseen transport, even
+                        where that liability provision does not envision transport of that kind; and
+                    </li>
+                </ol>
+            </li>
+            <li>the Company, its Related Companies and the Company Personnel are obliged to
+                comply with certain conditions and Laws in respect of Licences in relation to the
+                Goods or Services and neither the Company, its Related Companies or the Company
+                Personnel are in breach of these Terms or in their obligations to the Customer in
+                complying with such conditions or Laws.
+            </li>
+            <li>
+                Without limiting the generality of clause 2.4, the Customer also acknowledges and
+                agrees:
+                <ol>
+                    <li>the Company's Reporting Obligations may require the Company, its Related
+                        Companies and the Company Personnel to disclose a breach or possible
+                        breach of any Customs Related Law to any Government Authority;</li>
+                    <li>
+                        neither the Company, its Related Companies or the Company Personnel will
+                        have any liability to the Customer or any other party arising from compliance
+                        with its Reporting Obligations or the conditions of its licences; and
+                    </li>
+                    <li>
+                        the Customer must indemnify and keep indemnified the Company, its Related
+                        Companies and the Company Personnel from all costs and liabilities they
+                        incur in relation to their Reporting Obligations in respect of the Services or in
+                        relation to the Goods, including all legal costs which include, without limitation
+                        any legal costs incurred in determining whether a Reporting Obligation has
+                        arisen.
+                    </li>
+                </ol>
+            </li>
+            <li>
+                The Customer acknowledges that the Company complies with its obligations under
+                applicable Privacy Laws.
+            </li>
+            <li>
+                The Customer agrees that the Company may treat or otherwise deal with the Goods
+                as directed or required by any Government Authority regarding any biosecurity or
+                other risks.
+            </li>
         </ol>
-    </LI>
+
+
+    </ol>
+
+    <li>Power of attorney</li>
+    <ol>
+        <ol>
+            <li>
+                Subject to the effect of clause 3(b) of these Terms, by agreeing to these Terms the
+                Customer, constitutes and appoints the Company as its lawful attorney with full
+                irrevocable power and authority to take any and all action and to execute any and all
+                documents and instruments, in the name of and on behalf of the Customer, as may be
+                required or for the purpose of carrying out the terms of this document.
+            </li>
+            <li>
+                Notwithstanding that the Customer appoints the Company as its attorney, the power
+                and authority vested in the attorney is effective if and when the Customer fails to
+                comply with a request within the required time or in the event of a default of the
+                Customer.
+            </li>
+            <li>Notwithstanding that the Customer appoints the Company as its attorney, the power
+                and authority vested in the attorney is effective if and when the Customer fails to
+                comply with a request within the required time or in the event of a default of the
+                Customer.
+                <ol>
+                    <li>
+                        any delay by an attorney in exercising their powers; or
+                    </li>
+                    <li>
+                        an attorney not exercising its powers.
+                    </li>
+                </ol>
+            </li>
+            <li>
+                The Customer indemnifies and will keep indemnified the Company against any
+                reasonable loss or costs it suffers or incurs in exercising powers under this power of
+                attorney.
+            </li>
+        </ol>
+    </ol>
+
+
+
 
     <li>Orders and acceptance</li>
     <ol>
