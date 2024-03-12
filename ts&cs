@@ -51,7 +51,7 @@
 </style>
 
 <OL>
-    <LI>Definitionz</LI> <!--1-->
+    <LI>Definitions</LI> <!--1-->
     <ol>
         <li>Definitions</li>
         <p>In this document, the following definitions will apply:</p>
@@ -546,20 +546,22 @@
     <p>The Customer must immediately inform the Company if the Customer reasonably suspects
         that an Insolvency Event might occur or has occurred in respect of the Customer.</p>
 
-    <li>Lien</li>
-    <ol>
-        <li>The Company may claim a general or particular lien over the Goods, and any documents or
-            records relating to them for outstanding payments relating to the Services provided by the
-            Company.</li>
-        <li>The Company may sell any Goods held by it for outstanding payments by public auction or
-            private sale without notice to the Customer. In addition, the lien will cover the costs and
-            expenses of exercising the lien including without limitation, the costs of sale and any
-            reasonable legal fees incurred by the Company.</li>
-        <li>The lien and rights granted by this clause 10 survive delivery of the Goods and the Company
-            is entitled to retain the proceeds of sale of the Goods in respect of any outstanding amounts in
-            this clause 10. The Company sells or otherwise disposes of such Goods pursuant to this
-            clause 10 as principal and not as agent and is not the trustee of the power of sale.</li>
-    </ol>
+    <li>Lien
+        <ol>
+            <li>The Company may claim a general or particular lien over the Goods, and any documents or
+                records relating to them for outstanding payments relating to the Services provided by the
+                Company.</li>
+            <li>The Company may sell any Goods held by it for outstanding payments by public auction or
+                private sale without notice to the Customer. In addition, the lien will cover the costs and
+                expenses of exercising the lien including without limitation, the costs of sale and any
+                reasonable legal fees incurred by the Company.</li>
+            <li>The lien and rights granted by this clause 10 survive delivery of the Goods and the Company
+                is entitled to retain the proceeds of sale of the Goods in respect of any outstanding amounts in
+                this clause 10. The Company sells or otherwise disposes of such Goods pursuant to this
+                clause 10 as principal and not as agent and is not the trustee of the power of sale.</li>
+        </ol>
+    </li>
+
 
     <li>Personal Property Securities</li>
     <ol>
