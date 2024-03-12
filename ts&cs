@@ -6,7 +6,7 @@
     }
 
     li::marker {
-        content: counters(my-counter, '.')" ";
+        content: counters(my-counter, '')" ";
     }
 
     li {
