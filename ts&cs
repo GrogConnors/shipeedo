@@ -1,217 +1,62 @@
+<style>
+    ol {
+        counter-reset: my-counter 0;
+        list-style-type: none;
+        margin-bottom: 24px;
+    }
+
+    li::marker {
+        content: counters(my-counter, '.')" ";
+    }
+
+    li {
+        counter-increment: my-counter;
+        margin-bottom: 16px;
+    }
+
+    ol ol ol {
+        counter-reset: l3 0;
+        list-style-type: none;
+    }
+
+    ol ol ol li::marker {
+        content: counter(l3, lower-alpha)" ";
+        color: blue;
+    }
+
+    ol ol ol li {
+        counter-increment: l3;
+        color: blue;
+    }
+
+    ol ol ol ol {
+        counter-reset: l3 0;
+        list-style-type: none;
+    }
+
+    ol ol ol ol li::marker {
+        content: counter(l3, lower-roman)" ";
+        color: red;
+    }
+
+    ol ol ol ol li {
+        counter-increment: l3;
+        color: red;
+    }
+
+    .anom::marker {
+        content: counter(l3, lower-alpha)" ";
+        color: red;
+    }
+</style>
 
 <OL>
     <Li>Definitions</Li> <!--1-->
     <ol>
-        <li>Definitions</li>
-        <p>In this document, the following definitions will apply:</p>
-        <p><span class="bold">ABF</span> means the Australian Border Force (as defined in the Australian Border Force
-            Act 2015
-            (Cth)) and includes, where applicable, the Department of Home Affairs, the Australian Border
-            Force Commissioner and the Comptroller-General of Customs.</p>
-        <p><span class="bold">Advanced Fund Fee</span> means the fee charged to and payable by the Customer, being the
-            greater of 3% or minimum $50 for any disbursement government charges, duties, quarantine
-            and inspection fees, or taxes on incurred by the Company on behalf of the Customer in order
-            to expedite Customs clearance.</p>
-        <p><span class="bold">Airfreight Convention</span> means either:</p>
-        <ol class="alpha" type="a">
-            <li>the Convention for the Unification of Certain Rules for International Carriage by Air
-                signed at Montreal on 28 May 1999; or</li>
-            <li>the Convention for the Unification of Certain Rules relating to International Carriage by
-                Air, signed at Warsaw on 12 October 1929 (either unamended or amended by the
-                Hague Protocol 1955, at Guatemala City 1971, by the additional Protocol No 3 of
-                Montreal 1975 or by the additional Protocol No. 4 of Montreal 1975),</li>
-        </ol>
-        <p>whichever may be applicable.</p>
-
-        <p><span class="bold">Australian Consumer Law (ACL):</span> Refers to Schedule 2 of the Competition and Consumer
-            Act 2010 (Cth). ACL is designed to protect consumers and ensure fair trading practices in Australia.</p>
-
-        <p><span class="bold">ATO (Australian Taxation Office):</span> The government agency responsible for
-            administering taxation laws in Australia.</p>
-
-        <p><span class="bold">Business Day:</span> A day that is not a Saturday, Sunday, or public holiday in Sydney,
-            New South Wales. This term is often used in the context of legal and business activities.</p>
-
-        <p><span class="bold">Carriage:</span> The transportation of goods by various means, including air, sea, or land
-            transport. It may also include acts in furtherance of the transportation process.</p>
-
-        <p><span class="bold">Carrier:</span> Any party involved in the carriage of goods, whether it's by airfreight,
-            seafreight, or land transport. This term encompasses entities responsible for transporting goods.</p>
-
-        <p><span class="bold">Company:</span> Specifically, Freightonline Australia Pty Ltd, operating under the trading
-            name Couriers & Freight. The Australian Company Number (ACN) is provided as ACN 131 492 576.</p>
-
-        <p><span class="bold">Company Personnel:</span> Refers to the employees, representatives, agents, and
-            subcontractors of Freightonline Australia Pty Ltd (Couriers & Freight), including any third-party carriers
-            subcontracted by the company.</p>
-
-        <p><span class="bold">Credit Application:</span> Means the Company’s Credit Application form for Customers
-            accessible at <a href="https://www.couriersandfreight.com.au/credit-application"
-                target="_blank">https://www.couriersandfreight.com.au/credit-application</a>.</p>
-
-        <p><span class="bold">Customer:</span> Means a person to whom Services are provided.</p>
-
-        <p><span class="bold">Customs:</span> Means the Department of Home Affairs and its departments, including the
-            ABF.</p>
-
-        <p><span class="bold">Customs Related Law:</span> Has the same meaning as in section 4B of the Customs Act 1901
-            (Cth).</p>
-
-        <p><span class="bold">Debts:</span> Means all amounts owing by the Customer to the Company on any account
-            whatsoever.</p>
-
-        <p><span class="bold">Excluded Interest:</span> Means any of the interests set out in section 8 of the PPSA or
-            any interest that is not a Security Interest but encumbers the Goods.</p>
-
-        <p><span class="bold">Futile Charges:</span> Means any expenses incurred by the Company (such charge will be a
-            minimum of 10% of the cost of the shipment), charged to and payable by the Customer for cancelled or amended
-            Orders, including items not ready for collection at the time stated by the Customer in connection with an
-            Order.</p>
-
-        <p><span class="bold">Goods:</span> Means any chattels, articles, or things tendered for carriage or bailment or
-            other services by or on behalf of the Customer and includes the container or containers, unit load devices,
-            or other packaging containing the same and any other pallet or pallets delivered with the same to the
-            Company.</p>
-
-        <p><span class="bold">Government Authorities:</span> Means, without limitation, all government departments and
-            agencies, in Australia (including the RSA) or in any other country, with responsibility for quarantine,
-            border security, biosecurity, or the import and export of goods, the collection of revenue on the import and
-            export of goods, and the transport and movement of those goods.</p>
-
-        <p><span class="bold">GST:</span> Has the meaning given to that term in the GST Act.</p>
-
-        <p><span class="bold">GST Act:</span> Means the A New Tax System (Goods and Services Tax) Act 1999 (Cth).</p>
-
-        <p><span class="bold">Hague Rules:</span> Means the International Convention for the Unification of Certain
-            Rules relating to bills of lading signed at Brussels on 25 August 1924, or those rules as amended by the
-            Protocol signed at Brussels on 23 February 1968 (the Hague Visby Rules) and the SDR Protocol (1979).</p>
-
-        <p><span class="bold">Indirect Loss:</span> Means any one or more of the following:</p>
-        <ol>
-            <li>economic loss, loss of actual or anticipated profits, loss of revenue, loss of savings, loss of
-                production, loss of business, loss of opportunity, loss of access to markets, loss of goodwill, loss of
-                reputation, loss of credit, loss of publicity, loss of data, loss of use, loss of interest or loss
-                arising from business interruption; and</li>
-            <li>any special, indirect, consequential, incidental, punitive, exemplary, or unforeseeable loss or any
-                similar loss.</li>
-        </ol>
-
-        <p><span class="bold">Insolvency Event:</span> Means if a party enters into bankruptcy, provisional liquidation,
-            liquidation, receivership, receiver and managership, voluntary administration or if a controller (as defined
-            in the Corporations Act 2001 (Cth)) is appointed to a party or if a mortgagee takes possession of any assets
-            of a party whether by itself or by an agent or if a party ceases to trade or is unable to pay its debts as
-            they fall due or if a party makes a compromise with its creditors or enters into a scheme of arrangement.
-        </p>
-
-        <p><span class="bold">Intellectual Property Rights:</span> Means all present and future intellectual, industrial
-            or proprietary rights conferred by statute, at common law or in equity anywhere in the world, whether issued
-            or pending, registered or unregistered, including all forms of copyright, patents, trade marks, designs,
-            trade secrets, know-how, confidential information and circuit layouts.</p>
-
-        <p><span class="bold">Laws:</span> Means any international conventions, treaties, or domestic laws, regulations,
-            or guidelines that apply to the Commonwealth of Australia, any of the states, territories, or municipalities
-            of Australia, or to any country from which, through which, or into which the Goods are carried. This
-            includes, without limitation, all regulations, ordinances, and directions made pursuant to the Laws and any
-            successor Laws.</p>
-
-        <p><span class="bold">Licence:</span> Means any customs broker's licence, depot licence, warehouse licence, or
-            any other licence issued by Customs or other Government Authority.</p>
-
-        <p><span class="bold">OHS Laws:</span> Means any occupational health and safety legislation, regulations, or
-            guidelines, codes of conduct, or policies of the Commonwealth of Australia or any of the states,
-            territories, or municipalities of Australia.</p>
-        <p><span class="bold">Order:</span> Means any request for the supply of Services made by a Customer by:</p>
-        <ol>
-            <li>making a payment, whether in part or in full for any Services; or</li>
-            <li>providing acceptance of a Quotation:</li>
-            <ol>
-                <li> orally; or</li>
-                <li> in writing pursuant to an executed Volume Freight Agreement or any other physical or online form or
-                    document agreed to by the Company in writing.</li>
-            </ol>
-        </ol>
-        <p>regardless whether the Customer has paid any money.</p>
-        <p><span class="bold">Privacy Laws:</span> Means, as applicable:</p>
-        <ol>
-            <li>the Privacy Act 1988 (Cth), all associated regulations or guidelines, and any other associated or
-                relevant state or national privacy legislation, regulations or guidelines; or</li>
-            <li>such other privacy Laws that apply in any other overseas jurisdiction regarding the handling of personal
-                information.</li>
-        </ol>
-
-        <p><span class="bold">Product Emission Standards:</span> Means the Product Emissions Standards Act 2017 (Cth)
-            and any regulations or guidelines made pursuant to that Act or other applicable Laws relating to emission
-            standards.</p>
-
-        <p><span class="bold">Re-delivery and Re-direction Charges:</span> Means any expenses incurred by the Company
-            for re-delivering or re-directing the Goods, charged to and payable by the Customer.</p>
-
-        <p><span class="bold">Related Companies:</span> Means any Related Body Corporate (as defined in the Corporations
-            Act 2001 (Cth)) of the Company.</p>
-
-        <p><span class="bold">Reporting Obligations:</span> Means the obligations of the Company to report the arrival,
-            carriage and movement of goods pursuant to:</p>
-        <ol>
-            <li> the Customs Act 1901 (Cth);</li>
-            <li> any Customs Related Law;</li>
-            <p>or as required by:</p>
-            <li> any Government Authorities; or</li>
-            <li> the Company, if it in its sole discretion considers it to be necessary to comply with the conditions or
-                obligations of its Licences.</li>
-        </ol>
-        <p><span class="bold">RSA:</span> Means those state and Commonwealth Government Authorities in Australia
-            responsible for road safety regulation of heavy vehicles and the laws governing the carriage of goods by
-            road.</p>
-
-        <p><span class="bold">Security Interest:</span> Has the same meaning as under the PPSA.</p>
-
-        <p><span class="bold">Services:</span> Means any performance of work by the Company for the Customer in any way
-            connected with the Goods, including without limitation:</p>
-        <ol>
-            <li>the Carriage or storage of the Goods;</li>
-            <li>the provision of advice or information in connection with the Services;</li>
-            <li>customs clearance;</li>
-            <li>making enquiries with, providing any necessary information to, completing all necessary documentation,
-                or making any reports, entries and declarations required by any Government Authorities; and</li>
-            <li>entering into contracts with sub-contractors on behalf of the Customer to enable the Carriage, import,
-                export and storage of the Goods.</li>
-        </ol>
-
-        <p><span class="bold">Quotation:</span> Means a list and specification of Services prepared by the Company
-            together with prices for those Services, either individually or in aggregate.</p>
-        <p><span class="bold">Terms:</span> Means these Terms & Conditions of Trade.</p>
-
-        <p><span class="bold">Volume Freight Agreement:</span> Means a contract between the Company and the Customer for
-            the provision of Services by the Company for agreed minimum volumes or amounts of freight provided by the
-            Customer.</p>
-
-        <p><span class="bold">Website:</span> Means <a href="https://www.couriersandfreight.com.au/legal-information"
-                target="_blank">https://www.couriersandfreight.com.au/legal-information</a>.</p>
-
-
-
-
-        <li>Interpretation</li>
-        <p>In this document, unless the context otherwise requires:</p>
-        <ol>
-            <li>words denoting any gender include all genders;</li>
-            <li>headings are for convenience only and do not affect interpretation;</li>
-            <li>the singular includes the plural and vice versa;</li>
-            <li>any schedule attached to this document forms part of it;</li>
-            <li>a reference to a party includes its legal personal representatives, successors and permitted assigns;
-            </li>
-            <li>a reference to a person includes a corporation, trust, partnership, unincorporated body, or other
-                entity, whether or not it comprises a separate legal entity;</li>
-            <li>a reference to a statute or other law includes regulations and other instruments under it and
-                consolidations, amendments, re-enactments, or replacements of any of them;</li>
-            <li>no rule of construction applies to the disadvantage of a party because that party was responsible for
-                the preparation of, or seeks to rely on, this document or any part of it;</li>
-            <li>unless expressly stated to be otherwise, the meaning of general words is not limited by specific
-                examples introduced by ‘including’, ‘for example’ or similar inclusive expressions;</li>
-            <li>a reference to this document means this document and includes any variation or
-                replacement of this document.</li>
-        </ol>
+        <li>Test</li>
+        <li>TEst2</li>
     </ol>
+
 
     <li>Nature of Services and terms of supply</li>
     <ol>
