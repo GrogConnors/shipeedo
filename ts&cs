@@ -1,458 +1,522 @@
 <OL>
-    <Li>Definitionz</Li> <!--1-->
-    <ol>
-        <li>Definitions</li>
-        <p>In this document, the following definitions will apply:</p>
-        <p><span class="bold">ABF</span> means the Australian Border Force (as defined in the Australian Border Force
-            Act 2015
-            (Cth)) and includes, where applicable, the Department of Home Affairs, the Australian Border
-            Force Commissioner and the Comptroller-General of Customs.</p>
-        <p><span class="bold">Advanced Fund Fee</span> means the fee charged to and payable by the Customer, being the
-            greater of 3% or minimum $50 for any disbursement government charges, duties, quarantine
-            and inspection fees, or taxes on incurred by the Company on behalf of the Customer in order
-            to expedite Customs clearance.</p>
-        <p><span class="bold">Airfreight Convention</span> means either:</p>
-        <ol class="alpha" type="a">
-            <li>the Convention for the Unification of Certain Rules for International Carriage by Air
-                signed at Montreal on 28 May 1999; or</li>
-            <li>the Convention for the Unification of Certain Rules relating to International Carriage by
-                Air, signed at Warsaw on 12 October 1929 (either unamended or amended by the
-                Hague Protocol 1955, at Guatemala City 1971, by the additional Protocol No 3 of
-                Montreal 1975 or by the additional Protocol No. 4 of Montreal 1975),</li>
-        </ol>
-        <p>whichever may be applicable.</p>
-
-        <p><span class="bold">Australian Consumer Law (ACL):</span> Refers to Schedule 2 of the Competition and Consumer
-            Act 2010 (Cth). ACL is designed to protect consumers and ensure fair trading practices in Australia.</p>
-
-        <p><span class="bold">ATO (Australian Taxation Office):</span> The government agency responsible for
-            administering taxation laws in Australia.</p>
-
-        <p><span class="bold">Business Day:</span> A day that is not a Saturday, Sunday, or public holiday in Sydney,
-            New South Wales. This term is often used in the context of legal and business activities.</p>
-
-        <p><span class="bold">Carriage:</span> The transportation of goods by various means, including air, sea, or land
-            transport. It may also include acts in furtherance of the transportation process.</p>
-
-        <p><span class="bold">Carrier:</span> Any party involved in the carriage of goods, whether it's by airfreight,
-            seafreight, or land transport. This term encompasses entities responsible for transporting goods.</p>
-
-        <p><span class="bold">Company:</span> Specifically, Freightonline Australia Pty Ltd, operating under the trading
-            name Couriers & Freight. The Australian Company Number (ACN) is provided as ACN 131 492 576.</p>
-
-        <p><span class="bold">Company Personnel:</span> Refers to the employees, representatives, agents, and
-            subcontractors of Freightonline Australia Pty Ltd (Couriers & Freight), including any third-party carriers
-            subcontracted by the company.</p>
-
-        <p><span class="bold">Credit Application:</span> Means the Company’s Credit Application form for Customers
-            accessible at <a href="https://www.couriersandfreight.com.au/credit-application"
-                target="_blank">https://www.couriersandfreight.com.au/credit-application</a>.</p>
-
-        <p><span class="bold">Customer:</span> Means a person to whom Services are provided.</p>
-
-        <p><span class="bold">Customs:</span> Means the Department of Home Affairs and its departments, including the
-            ABF.</p>
-
-        <p><span class="bold">Customs Related Law:</span> Has the same meaning as in section 4B of the Customs Act 1901
-            (Cth).</p>
-
-        <p><span class="bold">Debts:</span> Means all amounts owing by the Customer to the Company on any account
-            whatsoever.</p>
-
-        <p><span class="bold">Excluded Interest:</span> Means any of the interests set out in section 8 of the PPSA or
-            any interest that is not a Security Interest but encumbers the Goods.</p>
-
-        <p><span class="bold">Futile Charges:</span> Means any expenses incurred by the Company (such charge will be a
-            minimum of 10% of the cost of the shipment), charged to and payable by the Customer for cancelled or amended
-            Orders, including items not ready for collection at the time stated by the Customer in connection with an
-            Order.</p>
-
-        <p><span class="bold">Goods:</span> Means any chattels, articles, or things tendered for carriage or bailment or
-            other services by or on behalf of the Customer and includes the container or containers, unit load devices,
-            or other packaging containing the same and any other pallet or pallets delivered with the same to the
-            Company.</p>
-
-        <p><span class="bold">Government Authorities:</span> Means, without limitation, all government departments and
-            agencies, in Australia (including the RSA) or in any other country, with responsibility for quarantine,
-            border security, biosecurity, or the import and export of goods, the collection of revenue on the import and
-            export of goods, and the transport and movement of those goods.</p>
-
-        <p><span class="bold">GST:</span> Has the meaning given to that term in the GST Act.</p>
-
-        <p><span class="bold">GST Act:</span> Means the A New Tax System (Goods and Services Tax) Act 1999 (Cth).</p>
-
-        <p><span class="bold">Hague Rules:</span> Means the International Convention for the Unification of Certain
-            Rules relating to bills of lading signed at Brussels on 25 August 1924, or those rules as amended by the
-            Protocol signed at Brussels on 23 February 1968 (the Hague Visby Rules) and the SDR Protocol (1979).</p>
-
-        <p><span class="bold">Indirect Loss:</span> Means any one or more of the following:</p>
+    <Li>Definitions
         <ol>
-            <li>economic loss, loss of actual or anticipated profits, loss of revenue, loss of savings, loss of
-                production, loss of business, loss of opportunity, loss of access to markets, loss of goodwill, loss of
-                reputation, loss of credit, loss of publicity, loss of data, loss of use, loss of interest or loss
-                arising from business interruption; and</li>
-            <li>any special, indirect, consequential, incidental, punitive, exemplary, or unforeseeable loss or any
-                similar loss.</li>
-        </ol>
-
-        <p><span class="bold">Insolvency Event:</span> Means if a party enters into bankruptcy, provisional liquidation,
-            liquidation, receivership, receiver and managership, voluntary administration or if a controller (as defined
-            in the Corporations Act 2001 (Cth)) is appointed to a party or if a mortgagee takes possession of any assets
-            of a party whether by itself or by an agent or if a party ceases to trade or is unable to pay its debts as
-            they fall due or if a party makes a compromise with its creditors or enters into a scheme of arrangement.
-        </p>
-
-        <p><span class="bold">Intellectual Property Rights:</span> Means all present and future intellectual, industrial
-            or proprietary rights conferred by statute, at common law or in equity anywhere in the world, whether issued
-            or pending, registered or unregistered, including all forms of copyright, patents, trade marks, designs,
-            trade secrets, know-how, confidential information and circuit layouts.</p>
-
-        <p><span class="bold">Laws:</span> Means any international conventions, treaties, or domestic laws, regulations,
-            or guidelines that apply to the Commonwealth of Australia, any of the states, territories, or municipalities
-            of Australia, or to any country from which, through which, or into which the Goods are carried. This
-            includes, without limitation, all regulations, ordinances, and directions made pursuant to the Laws and any
-            successor Laws.</p>
-
-        <p><span class="bold">Licence:</span> Means any customs broker's licence, depot licence, warehouse licence, or
-            any other licence issued by Customs or other Government Authority.</p>
-
-        <p><span class="bold">OHS Laws:</span> Means any occupational health and safety legislation, regulations, or
-            guidelines, codes of conduct, or policies of the Commonwealth of Australia or any of the states,
-            territories, or municipalities of Australia.</p>
-        <p><span class="bold">Order:</span> Means any request for the supply of Services made by a Customer by:</p>
-        <ol>
-            <li>making a payment, whether in part or in full for any Services; or</li>
-            <li>providing acceptance of a Quotation:</li>
-            <ol>
-                <li> orally; or</li>
-                <li> in writing pursuant to an executed Volume Freight Agreement or any other physical or online form or
-                    document agreed to by the Company in writing.</li>
+            <li>Definitions</li>
+            <p>In this document, the following definitions will apply:</p>
+            <p><span class="bold">ABF</span> means the Australian Border Force (as defined in the Australian Border
+                Force
+                Act 2015
+                (Cth)) and includes, where applicable, the Department of Home Affairs, the Australian Border
+                Force Commissioner and the Comptroller-General of Customs.</p>
+            <p><span class="bold">Advanced Fund Fee</span> means the fee charged to and payable by the Customer, being
+                the
+                greater of 3% or minimum $50 for any disbursement government charges, duties, quarantine
+                and inspection fees, or taxes on incurred by the Company on behalf of the Customer in order
+                to expedite Customs clearance.</p>
+            <p><span class="bold">Airfreight Convention</span> means either:</p>
+            <ol class="alpha" type="a">
+                <li>the Convention for the Unification of Certain Rules for International Carriage by Air
+                    signed at Montreal on 28 May 1999; or</li>
+                <li>the Convention for the Unification of Certain Rules relating to International Carriage by
+                    Air, signed at Warsaw on 12 October 1929 (either unamended or amended by the
+                    Hague Protocol 1955, at Guatemala City 1971, by the additional Protocol No 3 of
+                    Montreal 1975 or by the additional Protocol No. 4 of Montreal 1975),</li>
             </ol>
-        </ol>
-        <p>regardless whether the Customer has paid any money.</p>
-        <p><span class="bold">Privacy Laws:</span> Means, as applicable:</p>
-        <ol>
-            <li>the Privacy Act 1988 (Cth), all associated regulations or guidelines, and any other associated or
-                relevant state or national privacy legislation, regulations or guidelines; or</li>
-            <li>such other privacy Laws that apply in any other overseas jurisdiction regarding the handling of personal
-                information.</li>
-        </ol>
+            <p>whichever may be applicable.</p>
 
-        <p><span class="bold">Product Emission Standards:</span> Means the Product Emissions Standards Act 2017 (Cth)
-            and any regulations or guidelines made pursuant to that Act or other applicable Laws relating to emission
-            standards.</p>
+            <p><span class="bold">Australian Consumer Law (ACL):</span> Refers to Schedule 2 of the Competition and
+                Consumer
+                Act 2010 (Cth). ACL is designed to protect consumers and ensure fair trading practices in Australia.</p>
 
-        <p><span class="bold">Re-delivery and Re-direction Charges:</span> Means any expenses incurred by the Company
-            for re-delivering or re-directing the Goods, charged to and payable by the Customer.</p>
+            <p><span class="bold">ATO (Australian Taxation Office):</span> The government agency responsible for
+                administering taxation laws in Australia.</p>
 
-        <p><span class="bold">Related Companies:</span> Means any Related Body Corporate (as defined in the Corporations
-            Act 2001 (Cth)) of the Company.</p>
+            <p><span class="bold">Business Day:</span> A day that is not a Saturday, Sunday, or public holiday in
+                Sydney,
+                New South Wales. This term is often used in the context of legal and business activities.</p>
 
-        <p><span class="bold">Reporting Obligations:</span> Means the obligations of the Company to report the arrival,
-            carriage and movement of goods pursuant to:</p>
-        <ol>
-            <li> the Customs Act 1901 (Cth);</li>
-            <li> any Customs Related Law;</li>
-            <p>or as required by:</p>
-            <li> any Government Authorities; or</li>
-            <li> the Company, if it in its sole discretion considers it to be necessary to comply with the conditions or
-                obligations of its Licences.</li>
-        </ol>
-        <p><span class="bold">RSA:</span> Means those state and Commonwealth Government Authorities in Australia
-            responsible for road safety regulation of heavy vehicles and the laws governing the carriage of goods by
-            road.</p>
+            <p><span class="bold">Carriage:</span> The transportation of goods by various means, including air, sea, or
+                land
+                transport. It may also include acts in furtherance of the transportation process.</p>
 
-        <p><span class="bold">Security Interest:</span> Has the same meaning as under the PPSA.</p>
+            <p><span class="bold">Carrier:</span> Any party involved in the carriage of goods, whether it's by
+                airfreight,
+                seafreight, or land transport. This term encompasses entities responsible for transporting goods.</p>
 
-        <p><span class="bold">Services:</span> Means any performance of work by the Company for the Customer in any way
-            connected with the Goods, including without limitation:</p>
-        <ol>
-            <li>the Carriage or storage of the Goods;</li>
-            <li>the provision of advice or information in connection with the Services;</li>
-            <li>customs clearance;</li>
-            <li>making enquiries with, providing any necessary information to, completing all necessary documentation,
-                or making any reports, entries and declarations required by any Government Authorities; and</li>
-            <li>entering into contracts with sub-contractors on behalf of the Customer to enable the Carriage, import,
-                export and storage of the Goods.</li>
-        </ol>
+            <p><span class="bold">Company:</span> Specifically, Freightonline Australia Pty Ltd, operating under the
+                trading
+                name Couriers & Freight. The Australian Company Number (ACN) is provided as ACN 131 492 576.</p>
 
-        <p><span class="bold">Quotation:</span> Means a list and specification of Services prepared by the Company
-            together with prices for those Services, either individually or in aggregate.</p>
-        <p><span class="bold">Terms:</span> Means these Terms & Conditions of Trade.</p>
+            <p><span class="bold">Company Personnel:</span> Refers to the employees, representatives, agents, and
+                subcontractors of Freightonline Australia Pty Ltd (Couriers & Freight), including any third-party
+                carriers
+                subcontracted by the company.</p>
 
-        <p><span class="bold">Volume Freight Agreement:</span> Means a contract between the Company and the Customer for
-            the provision of Services by the Company for agreed minimum volumes or amounts of freight provided by the
-            Customer.</p>
+            <p><span class="bold">Credit Application:</span> Means the Company’s Credit Application form for Customers
+                accessible at <a href="https://www.couriersandfreight.com.au/credit-application"
+                    target="_blank">https://www.couriersandfreight.com.au/credit-application</a>.</p>
 
-        <p><span class="bold">Website:</span> Means <a href="https://www.couriersandfreight.com.au/legal-information"
-                target="_blank">https://www.couriersandfreight.com.au/legal-information</a>.</p>
+            <p><span class="bold">Customer:</span> Means a person to whom Services are provided.</p>
 
+            <p><span class="bold">Customs:</span> Means the Department of Home Affairs and its departments, including
+                the
+                ABF.</p>
 
+            <p><span class="bold">Customs Related Law:</span> Has the same meaning as in section 4B of the Customs Act
+                1901
+                (Cth).</p>
 
+            <p><span class="bold">Debts:</span> Means all amounts owing by the Customer to the Company on any account
+                whatsoever.</p>
 
-        <li>Interpretation</li>
-        <p>In this document, unless the context otherwise requires:</p>
-        <ol>
-            <li>words denoting any gender include all genders;</li>
-            <li>headings are for convenience only and do not affect interpretation;</li>
-            <li>the singular includes the plural and vice versa;</li>
-            <li>any schedule attached to this document forms part of it;</li>
-            <li>a reference to a party includes its legal personal representatives, successors and permitted assigns;
-            </li>
-            <li>a reference to a person includes a corporation, trust, partnership, unincorporated body, or other
-                entity, whether or not it comprises a separate legal entity;</li>
-            <li>a reference to a statute or other law includes regulations and other instruments under it and
-                consolidations, amendments, re-enactments, or replacements of any of them;</li>
-            <li>no rule of construction applies to the disadvantage of a party because that party was responsible for
-                the preparation of, or seeks to rely on, this document or any part of it;</li>
-            <li>unless expressly stated to be otherwise, the meaning of general words is not limited by specific
-                examples introduced by ‘including’, ‘for example’ or similar inclusive expressions;</li>
-            <li>a reference to this document means this document and includes any variation or
-                replacement of this document.</li>
-        </ol>
-    </ol>
+            <p><span class="bold">Excluded Interest:</span> Means any of the interests set out in section 8 of the PPSA
+                or
+                any interest that is not a Security Interest but encumbers the Goods.</p>
 
-    <li>Nature of Services and terms of supply</li>
-    <ol>
-        <li>These Terms apply to the supply of all Services. Terms and conditions, if any, contained in any
-            documentation provided by the Customer (including any transport document such as a bill of
-            lading, waybill or consignment note) are excluded and do not apply.
-        </li>
-        <li>
-            The Terms may be amended from time to time by the Company by notice to the Customer.
-            The amended Terms will apply to any Order or part of an Order from the date on which the
-            Company notifies the Customer of that change.
-        </li>
-        <li>
-            The Customer acknowledges the Company:
+            <p><span class="bold">Futile Charges:</span> Means any expenses incurred by the Company (such charge will be
+                a
+                minimum of 10% of the cost of the shipment), charged to and payable by the Customer for cancelled or
+                amended
+                Orders, including items not ready for collection at the time stated by the Customer in connection with
+                an
+                Order.</p>
+
+            <p><span class="bold">Goods:</span> Means any chattels, articles, or things tendered for carriage or
+                bailment or
+                other services by or on behalf of the Customer and includes the container or containers, unit load
+                devices,
+                or other packaging containing the same and any other pallet or pallets delivered with the same to the
+                Company.</p>
+
+            <p><span class="bold">Government Authorities:</span> Means, without limitation, all government departments
+                and
+                agencies, in Australia (including the RSA) or in any other country, with responsibility for quarantine,
+                border security, biosecurity, or the import and export of goods, the collection of revenue on the import
+                and
+                export of goods, and the transport and movement of those goods.</p>
+
+            <p><span class="bold">GST:</span> Has the meaning given to that term in the GST Act.</p>
+
+            <p><span class="bold">GST Act:</span> Means the A New Tax System (Goods and Services Tax) Act 1999 (Cth).
+            </p>
+
+            <p><span class="bold">Hague Rules:</span> Means the International Convention for the Unification of Certain
+                Rules relating to bills of lading signed at Brussels on 25 August 1924, or those rules as amended by the
+                Protocol signed at Brussels on 23 February 1968 (the Hague Visby Rules) and the SDR Protocol (1979).</p>
+
+            <p><span class="bold">Indirect Loss:</span> Means any one or more of the following:</p>
             <ol>
-                <li>is not a common Carrier and accepts no liability as such;</li>
-                <li>reserves the right to open and weigh all the Customer’s Goods and do any other thing
-                    necessary in order to inspect all Goods at its discretion (including to determine the
-                    weight, nature, condition, ownership or end-destination of the Goods) and at the
-                    Customer’s expense;
+                <li>economic loss, loss of actual or anticipated profits, loss of revenue, loss of savings, loss of
+                    production, loss of business, loss of opportunity, loss of access to markets, loss of goodwill, loss
+                    of
+                    reputation, loss of credit, loss of publicity, loss of data, loss of use, loss of interest or loss
+                    arising from business interruption; and</li>
+                <li>any special, indirect, consequential, incidental, punitive, exemplary, or unforeseeable loss or any
+                    similar loss.</li>
+            </ol>
+
+            <p><span class="bold">Insolvency Event:</span> Means if a party enters into bankruptcy, provisional
+                liquidation,
+                liquidation, receivership, receiver and managership, voluntary administration or if a controller (as
+                defined
+                in the Corporations Act 2001 (Cth)) is appointed to a party or if a mortgagee takes possession of any
+                assets
+                of a party whether by itself or by an agent or if a party ceases to trade or is unable to pay its debts
+                as
+                they fall due or if a party makes a compromise with its creditors or enters into a scheme of
+                arrangement.
+            </p>
+
+            <p><span class="bold">Intellectual Property Rights:</span> Means all present and future intellectual,
+                industrial
+                or proprietary rights conferred by statute, at common law or in equity anywhere in the world, whether
+                issued
+                or pending, registered or unregistered, including all forms of copyright, patents, trade marks, designs,
+                trade secrets, know-how, confidential information and circuit layouts.</p>
+
+            <p><span class="bold">Laws:</span> Means any international conventions, treaties, or domestic laws,
+                regulations,
+                or guidelines that apply to the Commonwealth of Australia, any of the states, territories, or
+                municipalities
+                of Australia, or to any country from which, through which, or into which the Goods are carried. This
+                includes, without limitation, all regulations, ordinances, and directions made pursuant to the Laws and
+                any
+                successor Laws.</p>
+
+            <p><span class="bold">Licence:</span> Means any customs broker's licence, depot licence, warehouse licence,
+                or
+                any other licence issued by Customs or other Government Authority.</p>
+
+            <p><span class="bold">OHS Laws:</span> Means any occupational health and safety legislation, regulations, or
+                guidelines, codes of conduct, or policies of the Commonwealth of Australia or any of the states,
+                territories, or municipalities of Australia.</p>
+            <p><span class="bold">Order:</span> Means any request for the supply of Services made by a Customer by:</p>
+            <ol>
+                <li>making a payment, whether in part or in full for any Services; or</li>
+                <li>providing acceptance of a Quotation:</li>
+                <ol>
+                    <li> orally; or</li>
+                    <li> in writing pursuant to an executed Volume Freight Agreement or any other physical or online
+                        form or
+                        document agreed to by the Company in writing.</li>
+                </ol>
+            </ol>
+            <p>regardless whether the Customer has paid any money.</p>
+            <p><span class="bold">Privacy Laws:</span> Means, as applicable:</p>
+            <ol>
+                <li>the Privacy Act 1988 (Cth), all associated regulations or guidelines, and any other associated or
+                    relevant state or national privacy legislation, regulations or guidelines; or</li>
+                <li>such other privacy Laws that apply in any other overseas jurisdiction regarding the handling of
+                    personal
+                    information.</li>
+            </ol>
+
+            <p><span class="bold">Product Emission Standards:</span> Means the Product Emissions Standards Act 2017
+                (Cth)
+                and any regulations or guidelines made pursuant to that Act or other applicable Laws relating to
+                emission
+                standards.</p>
+
+            <p><span class="bold">Re-delivery and Re-direction Charges:</span> Means any expenses incurred by the
+                Company
+                for re-delivering or re-directing the Goods, charged to and payable by the Customer.</p>
+
+            <p><span class="bold">Related Companies:</span> Means any Related Body Corporate (as defined in the
+                Corporations
+                Act 2001 (Cth)) of the Company.</p>
+
+            <p><span class="bold">Reporting Obligations:</span> Means the obligations of the Company to report the
+                arrival,
+                carriage and movement of goods pursuant to:</p>
+            <ol>
+                <li> the Customs Act 1901 (Cth);</li>
+                <li> any Customs Related Law;</li>
+                <p>or as required by:</p>
+                <li> any Government Authorities; or</li>
+                <li> the Company, if it in its sole discretion considers it to be necessary to comply with the
+                    conditions or
+                    obligations of its Licences.</li>
+            </ol>
+            <p><span class="bold">RSA:</span> Means those state and Commonwealth Government Authorities in Australia
+                responsible for road safety regulation of heavy vehicles and the laws governing the carriage of goods by
+                road.</p>
+
+            <p><span class="bold">Security Interest:</span> Has the same meaning as under the PPSA.</p>
+
+            <p><span class="bold">Services:</span> Means any performance of work by the Company for the Customer in any
+                way
+                connected with the Goods, including without limitation:</p>
+            <ol>
+                <li>the Carriage or storage of the Goods;</li>
+                <li>the provision of advice or information in connection with the Services;</li>
+                <li>customs clearance;</li>
+                <li>making enquiries with, providing any necessary information to, completing all necessary
+                    documentation,
+                    or making any reports, entries and declarations required by any Government Authorities; and</li>
+                <li>entering into contracts with sub-contractors on behalf of the Customer to enable the Carriage,
+                    import,
+                    export and storage of the Goods.</li>
+            </ol>
+
+            <p><span class="bold">Quotation:</span> Means a list and specification of Services prepared by the Company
+                together with prices for those Services, either individually or in aggregate.</p>
+            <p><span class="bold">Terms:</span> Means these Terms & Conditions of Trade.</p>
+
+            <p><span class="bold">Volume Freight Agreement:</span> Means a contract between the Company and the Customer
+                for
+                the provision of Services by the Company for agreed minimum volumes or amounts of freight provided by
+                the
+                Customer.</p>
+
+            <p><span class="bold">Website:</span> Means <a
+                    href="https://www.couriersandfreight.com.au/legal-information"
+                    target="_blank">https://www.couriersandfreight.com.au/legal-information</a>.</p>
+
+
+
+
+            <li>Interpretation</li>
+            <p>In this document, unless the context otherwise requires:</p>
+            <ol>
+                <li>words denoting any gender include all genders;</li>
+                <li>headings are for convenience only and do not affect interpretation;</li>
+                <li>the singular includes the plural and vice versa;</li>
+                <li>any schedule attached to this document forms part of it;</li>
+                <li>a reference to a party includes its legal personal representatives, successors and permitted
+                    assigns;
                 </li>
-                <li>may refuse at its sole and absolute discretion to accept any Goods for Carriage or
-                    storage without assigning any reason; and</li>
-                <li>uses third party carriers and the Customer must comply with any applicable terms and
-                    condition of that third party carrier with regard to provision of the Services.</li>
+                <li>a reference to a person includes a corporation, trust, partnership, unincorporated body, or other
+                    entity, whether or not it comprises a separate legal entity;</li>
+                <li>a reference to a statute or other law includes regulations and other instruments under it and
+                    consolidations, amendments, re-enactments, or replacements of any of them;</li>
+                <li>no rule of construction applies to the disadvantage of a party because that party was responsible
+                    for
+                    the preparation of, or seeks to rely on, this document or any part of it;</li>
+                <li>unless expressly stated to be otherwise, the meaning of general words is not limited by specific
+                    examples introduced by ‘including’, ‘for example’ or similar inclusive expressions;</li>
+                <li>a reference to this document means this document and includes any variation or
+                    replacement of this document.</li>
             </ol>
-        </li>
-    </ol>
+        </ol>
+    </Li> <!--1-->
 
-    <li>The Customer further acknowledges and agrees:</li>
-    <ol>
+
+    <li>Nature of Services and terms of supply
         <ol>
-            <li>where terms of Carriage are limited pursuant to any Law, bill of lading or airway bill,
-                and the transport of the Goods extends or requires transport outside and beyond the
-                terms provided for in that Law, bill of lading or airway bill:
+            <li>These Terms apply to the supply of all Services. Terms and conditions, if any, contained in any
+                documentation provided by the Customer (including any transport document such as a bill of
+                lading, waybill or consignment note) are excluded and do not apply.
+            </li>
+            <li>
+                The Terms may be amended from time to time by the Company by notice to the Customer.
+                The amended Terms will apply to any Order or part of an Order from the date on which the
+                Company notifies the Customer of that change.
+            </li>
+            <li>
+                The Customer acknowledges the Company:
                 <ol>
-                    <li>then the Customer may be required to enter into a further contractual
-                        agreement with the carrier regarding that portion of transport in order to limit
-                        liability on behalf of the carrier; or
+                    <li>is not a common Carrier and accepts no liability as such;</li>
+                    <li>reserves the right to open and weigh all the Customer’s Goods and do any other thing
+                        necessary in order to inspect all Goods at its discretion (including to determine the
+                        weight, nature, condition, ownership or end-destination of the Goods) and at the
+                        Customer’s expense;
                     </li>
-                    <li>where the transport was unforeseen, the limitation of liability provisions in
-                        place for the foreseen transport will extend to the unforeseen transport, even
-                        where that liability provision does not envision transport of that kind; and
-                    </li>
+                    <li>may refuse at its sole and absolute discretion to accept any Goods for Carriage or
+                        storage without assigning any reason; and</li>
+                    <li>uses third party carriers and the Customer must comply with any applicable terms and
+                        condition of that third party carrier with regard to provision of the Services.</li>
                 </ol>
-            </li>
-            <li>the Company, its Related Companies and the Company Personnel are obliged to
-                comply with certain conditions and Laws in respect of Licences in relation to the
-                Goods or Services and neither the Company, its Related Companies or the Company
-                Personnel are in breach of these Terms or in their obligations to the Customer in
-                complying with such conditions or Laws.
-            </li>
-            <li>
-                Without limiting the generality of clause 2.4, the Customer also acknowledges and
-                agrees:
-                <ol>
-                    <li>the Company's Reporting Obligations may require the Company, its Related
-                        Companies and the Company Personnel to disclose a breach or possible
-                        breach of any Customs Related Law to any Government Authority;</li>
-                    <li>
-                        neither the Company, its Related Companies or the Company Personnel will
-                        have any liability to the Customer or any other party arising from compliance
-                        with its Reporting Obligations or the conditions of its licences; and
-                    </li>
-                    <li>
-                        the Customer must indemnify and keep indemnified the Company, its Related
-                        Companies and the Company Personnel from all costs and liabilities they
-                        incur in relation to their Reporting Obligations in respect of the Services or in
-                        relation to the Goods, including all legal costs which include, without limitation
-                        any legal costs incurred in determining whether a Reporting Obligation has
-                        arisen.
-                    </li>
-                </ol>
-            </li>
-            <li>
-                The Customer acknowledges that the Company complies with its obligations under
-                applicable Privacy Laws.
-            </li>
-            <li>
-                The Customer agrees that the Company may treat or otherwise deal with the Goods
-                as directed or required by any Government Authority regarding any biosecurity or
-                other risks.
             </li>
         </ol>
+    </li>
 
 
-    </ol>
-
-    <li>Power of attorney</li>
-    <ol>
+    <li>The Customer further acknowledges and agrees:
         <ol>
-            <li>
-                Subject to the effect of clause 3(b) of these Terms, by agreeing to these Terms the
-                Customer, constitutes and appoints the Company as its lawful attorney with full
-                irrevocable power and authority to take any and all action and to execute any and all
-                documents and instruments, in the name of and on behalf of the Customer, as may be
-                required or for the purpose of carrying out the terms of this document.
-            </li>
-            <li>
-                Notwithstanding that the Customer appoints the Company as its attorney, the power
-                and authority vested in the attorney is effective if and when the Customer fails to
-                comply with a request within the required time or in the event of a default of the
-                Customer.
-            </li>
-            <li>Notwithstanding that the Customer appoints the Company as its attorney, the power
-                and authority vested in the attorney is effective if and when the Customer fails to
-                comply with a request within the required time or in the event of a default of the
-                Customer.
-                <ol>
-                    <li>
-                        any delay by an attorney in exercising their powers; or
-                    </li>
-                    <li>
-                        an attorney not exercising its powers.
-                    </li>
-                </ol>
-            </li>
-            <li>
-                The Customer indemnifies and will keep indemnified the Company against any
-                reasonable loss or costs it suffers or incurs in exercising powers under this power of
-                attorney.
-            </li>
-        </ol>
-    </ol>
-
-    <li>Orders and acceptance</li>
-    <ol>
-        <li>Once a Customer places an Order it:
             <ol>
-                <li>is not deemed to be accepted by, or binding on, the Company until the Company
-                    accepts the Order in whole or in part by written notice to the Customer; and</li>
-                <li>may not be cancelled once the Order is accepted by the Company unless otherwise
-                    agreed to by the Company in writing or otherwise set out in these Terms.</li>
-            </ol>
-        </li>
-        <li>The Company may reject an Order for any reason, including:
-            <ol>
-                <li>the unavailability of third party Carriers;</li>
-                <li>insufficient or excessive declared or actual cubic or volumetric weight by the Customer
-                    under an Order; or</li>
-                <li>an error in the description of the Services on the Website, social media sites, its other
-                    advertisements, or an error in the Order.</li>
-            </ol>
-        </li>
-        <li>Accepted Orders may not be varied or cancelled by the Customer without the Company’s
-            written consent and subject to clauses 24 and 25, there is no right of a refund.</li>
-    </ol>
-
-    <li>Prices, Quotations and invoicing</li>
-    <ol>
-        <li>Unless otherwise indicated and agreed upon by the Company in writing:
-            <ol>
-                <li>all Order prices are in Australian dollars (exclusive of GST); and</li>
-                <li>full payment is required 7 days from the date the Company’s invoice has been issued
-                    to the Customer, excluding pre-paid Services or where the Company requires any
-                    upfront payments such as for duties and taxes.</li>
-            </ol>
-        </li>
-        <li>The Company charges its freight prices according to the higher of Customer declared or actual
-            cubic or volumetric weight, and applies specific cubic conversion ratios depending on the
-            Services selected by the Customer under an Order. Freight prices may be changed at any
-            time by the Company at its discretion.</li>
-        <li>In the event of any errors or inconsistencies in the information provided by the Customer in
-            connection with the Services, for example any discrepancy between the declared chargeable
-            weight and the actual chargeable weight, or between the pick-up type (i.e. business or
-            residential):
-            <ol>
-                <li>the Customer will automatically be charged by the Company and invoiced for the
-                    difference; and</li>
-                <li>the Company reserves the right to not send out any Goods for Carriage or storage,
-                    until any outstanding moneys are paid by the Customer.</li>
-            </ol>
-        </li>
-        <li>The Customer agrees:
-            <ol>
-                <li>to make its own enquires regarding the specific cubic or volumetric conversion ratios
-                    applicable to the Services; and</li>
-                <li>that the Company may inspect and open Goods at any time at its absolute discretion,
-                    for the purpose of calculating the actual cubic or volumetric weight.</li>
-            </ol>
-        </li>
-        <li>In addition to freight costs outlined under an Order, the Company may charge the Customer:
-            <ol>
-                <li>for any reasonable expenses incurred including a management fee , as a result of any
-                    incorrect declaration made by the Customer as to weight, dimensions, description,
-                    packaging, pick-up or destination of the Goods;</li>
-                <li>where applicable, any:
+                <li>where terms of Carriage are limited pursuant to any Law, bill of lading or airway bill,
+                    and the transport of the Goods extends or requires transport outside and beyond the
+                    terms provided for in that Law, bill of lading or airway bill:
                     <ol>
-                        <li>Advanced Fund Fees;</li>
-                        <li>Futile Charges;</li>
-                        <li>Re-delivery and Re-direction Charges; and</li>
+                        <li>then the Customer may be required to enter into a further contractual
+                            agreement with the carrier regarding that portion of transport in order to limit
+                            liability on behalf of the carrier; or
+                        </li>
+                        <li>where the transport was unforeseen, the limitation of liability provisions in
+                            place for the foreseen transport will extend to the unforeseen transport, even
+                            where that liability provision does not envision transport of that kind; and
+                        </li>
                     </ol>
                 </li>
-                <li>additional fees sufficient to cover the Company’s reasonable administration and
-                    banking costs:
+                <li>the Company, its Related Companies and the Company Personnel are obliged to
+                    comply with certain conditions and Laws in respect of Licences in relation to the
+                    Goods or Services and neither the Company, its Related Companies or the Company
+                    Personnel are in breach of these Terms or in their obligations to the Customer in
+                    complying with such conditions or Laws.
+                </li>
+                <li>
+                    Without limiting the generality of clause 2.4, the Customer also acknowledges and
+                    agrees:
                     <ol>
-                        <li>for consignment generation, SMS charges, software development, hardware
-                            rental, invoice generation, software access, Carrier setup;</li>
-                        <li>for sending or failing to Declare Dangerous Goods ($150.00);</li>
-                        <li>where payment by the Customer is made by way of credit card; or</li>
-                        <li>where any payment is dishonoured for any reason by the relevant financial
-                            institution.</li>
+                        <li>the Company's Reporting Obligations may require the Company, its Related
+                            Companies and the Company Personnel to disclose a breach or possible
+                            breach of any Customs Related Law to any Government Authority;</li>
+                        <li>
+                            neither the Company, its Related Companies or the Company Personnel will
+                            have any liability to the Customer or any other party arising from compliance
+                            with its Reporting Obligations or the conditions of its licences; and
+                        </li>
+                        <li>
+                            the Customer must indemnify and keep indemnified the Company, its Related
+                            Companies and the Company Personnel from all costs and liabilities they
+                            incur in relation to their Reporting Obligations in respect of the Services or in
+                            relation to the Goods, including all legal costs which include, without limitation
+                            any legal costs incurred in determining whether a Reporting Obligation has
+                            arisen.
+                        </li>
                     </ol>
                 </li>
-
+                <li>
+                    The Customer acknowledges that the Company complies with its obligations under
+                    applicable Privacy Laws.
+                </li>
+                <li>
+                    The Customer agrees that the Company may treat or otherwise deal with the Goods
+                    as directed or required by any Government Authority regarding any biosecurity or
+                    other risks.
+                </li>
             </ol>
-        </li>
-        <li>Any discount or rebate is at the Company’s sole discretion and will only apply if agreed by the
-            Company in writing.</li>
-        <li>Prices in Quotations are indicative only and are based on prices current at the date of the
-            Quotation. The length of validity of the Quotation depends on the type of Service being
-            provided for and will be specified by the Company at the time of issuing the Quotation. Where
-            there are any changes in instruction by the Customer, a new Quotation may be issued by the
-            Company.</li>
-    </ol>
 
-    <li>Credit granting and payment</li>
-    <ol>
-        <li>The Company may accept an Order:
+
+        </ol>
+    </li>
+
+
+    <li>Power of attorney
+        <ol>
             <ol>
-                <li>allowing credit for part or all of its value (subject to the Company approving the
-                    Customer’s Credit Application); or</li>
-                <li>requiring a deposit or pre-payment as a condition for the supply of Services.</li>
+                <li>
+                    Subject to the effect of clause 3(b) of these Terms, by agreeing to these Terms the
+                    Customer, constitutes and appoints the Company as its lawful attorney with full
+                    irrevocable power and authority to take any and all action and to execute any and all
+                    documents and instruments, in the name of and on behalf of the Customer, as may be
+                    required or for the purpose of carrying out the terms of this document.
+                </li>
+                <li>
+                    Notwithstanding that the Customer appoints the Company as its attorney, the power
+                    and authority vested in the attorney is effective if and when the Customer fails to
+                    comply with a request within the required time or in the event of a default of the
+                    Customer.
+                </li>
+                <li>Notwithstanding that the Customer appoints the Company as its attorney, the power
+                    and authority vested in the attorney is effective if and when the Customer fails to
+                    comply with a request within the required time or in the event of a default of the
+                    Customer.
+                    <ol>
+                        <li>
+                            any delay by an attorney in exercising their powers; or
+                        </li>
+                        <li>
+                            an attorney not exercising its powers.
+                        </li>
+                    </ol>
+                </li>
+                <li>
+                    The Customer indemnifies and will keep indemnified the Company against any
+                    reasonable loss or costs it suffers or incurs in exercising powers under this power of
+                    attorney.
+                </li>
             </ol>
-        <li>Credit approval once granted may be withdrawn at any time. Where credit approval has not
-            been granted, or is withdrawn, payment in cleared funds for all Services supplied is required
-            before Service delivery.</li>
-        <li>Where credit has been approved for the Customer, all invoices issued by the Company are
-            due and payable by the date for payment agreed in writing by the Customer and the Company.
-            If no agreement in writing is made, payment is due 7 days after the date of the invoice.</li>
-        <li>Unless otherwise indicated and agreed upon by the Company in writing payments must be
-            made in Australian dollars. Payments remitted in foreign currency must include all related
-            bank charges and currency conversion costs both on the payment and receiving ends.</li>
-        <li>Notwithstanding anything else contained in these Terms, if the Company reasonably believes
-            the Customer’s financial position had deteriorated and may become a credit risk or has failed
-            to make payments when due, the Company reserves the right to change any credit or
-            payment arrangements to payment upfront.</li>
-        </li>
+        </ol>
+    </li>
 
-    </ol>
 
-    <li>Disputed charges and complaints</li>
+
+
+
+    <li>Orders and acceptance
+        <ol>
+            <li>Once a Customer places an Order it:
+                <ol>
+                    <li>is not deemed to be accepted by, or binding on, the Company until the Company
+                        accepts the Order in whole or in part by written notice to the Customer; and</li>
+                    <li>may not be cancelled once the Order is accepted by the Company unless otherwise
+                        agreed to by the Company in writing or otherwise set out in these Terms.</li>
+                </ol>
+            </li>
+            <li>The Company may reject an Order for any reason, including:
+                <ol>
+                    <li>the unavailability of third party Carriers;</li>
+                    <li>insufficient or excessive declared or actual cubic or volumetric weight by the Customer
+                        under an Order; or</li>
+                    <li>an error in the description of the Services on the Website, social media sites, its other
+                        advertisements, or an error in the Order.</li>
+                </ol>
+            </li>
+            <li>Accepted Orders may not be varied or cancelled by the Customer without the Company’s
+                written consent and subject to clauses 24 and 25, there is no right of a refund.</li>
+        </ol>
+    </li>
+
+
+    <li>Prices, Quotations and invoicing
+        <ol>
+            <li>Unless otherwise indicated and agreed upon by the Company in writing:
+                <ol>
+                    <li>all Order prices are in Australian dollars (exclusive of GST); and</li>
+                    <li>full payment is required 7 days from the date the Company’s invoice has been issued
+                        to the Customer, excluding pre-paid Services or where the Company requires any
+                        upfront payments such as for duties and taxes.</li>
+                </ol>
+            </li>
+            <li>The Company charges its freight prices according to the higher of Customer declared or actual
+                cubic or volumetric weight, and applies specific cubic conversion ratios depending on the
+                Services selected by the Customer under an Order. Freight prices may be changed at any
+                time by the Company at its discretion.</li>
+            <li>In the event of any errors or inconsistencies in the information provided by the Customer in
+                connection with the Services, for example any discrepancy between the declared chargeable
+                weight and the actual chargeable weight, or between the pick-up type (i.e. business or
+                residential):
+                <ol>
+                    <li>the Customer will automatically be charged by the Company and invoiced for the
+                        difference; and</li>
+                    <li>the Company reserves the right to not send out any Goods for Carriage or storage,
+                        until any outstanding moneys are paid by the Customer.</li>
+                </ol>
+            </li>
+            <li>The Customer agrees:
+                <ol>
+                    <li>to make its own enquires regarding the specific cubic or volumetric conversion ratios
+                        applicable to the Services; and</li>
+                    <li>that the Company may inspect and open Goods at any time at its absolute discretion,
+                        for the purpose of calculating the actual cubic or volumetric weight.</li>
+                </ol>
+            </li>
+            <li>In addition to freight costs outlined under an Order, the Company may charge the Customer:
+                <ol>
+                    <li>for any reasonable expenses incurred including a management fee , as a result of any
+                        incorrect declaration made by the Customer as to weight, dimensions, description,
+                        packaging, pick-up or destination of the Goods;</li>
+                    <li>where applicable, any:
+                        <ol>
+                            <li>Advanced Fund Fees;</li>
+                            <li>Futile Charges;</li>
+                            <li>Re-delivery and Re-direction Charges; and</li>
+                        </ol>
+                    </li>
+                    <li>additional fees sufficient to cover the Company’s reasonable administration and
+                        banking costs:
+                        <ol>
+                            <li>for consignment generation, SMS charges, software development, hardware
+                                rental, invoice generation, software access, Carrier setup;</li>
+                            <li>for sending or failing to Declare Dangerous Goods ($150.00);</li>
+                            <li>where payment by the Customer is made by way of credit card; or</li>
+                            <li>where any payment is dishonoured for any reason by the relevant financial
+                                institution.</li>
+                        </ol>
+                    </li>
+
+                </ol>
+            </li>
+            <li>Any discount or rebate is at the Company’s sole discretion and will only apply if agreed by the
+                Company in writing.</li>
+            <li>Prices in Quotations are indicative only and are based on prices current at the date of the
+                Quotation. The length of validity of the Quotation depends on the type of Service being
+                provided for and will be specified by the Company at the time of issuing the Quotation. Where
+                there are any changes in instruction by the Customer, a new Quotation may be issued by the
+                Company.</li>
+        </ol>
+    </li>
+
+
+    <li>Credit granting and payment
+        <ol>
+            <li>The Company may accept an Order:
+                <ol>
+                    <li>allowing credit for part or all of its value (subject to the Company approving the
+                        Customer’s Credit Application); or</li>
+                    <li>requiring a deposit or pre-payment as a condition for the supply of Services.</li>
+                </ol>
+            <li>Credit approval once granted may be withdrawn at any time. Where credit approval has not
+                been granted, or is withdrawn, payment in cleared funds for all Services supplied is required
+                before Service delivery.</li>
+            <li>Where credit has been approved for the Customer, all invoices issued by the Company are
+                due and payable by the date for payment agreed in writing by the Customer and the Company.
+                If no agreement in writing is made, payment is due 7 days after the date of the invoice.</li>
+            <li>Unless otherwise indicated and agreed upon by the Company in writing payments must be
+                made in Australian dollars. Payments remitted in foreign currency must include all related
+                bank charges and currency conversion costs both on the payment and receiving ends.</li>
+            <li>Notwithstanding anything else contained in these Terms, if the Company reasonably believes
+                the Customer’s financial position had deteriorated and may become a credit risk or has failed
+                to make payments when due, the Company reserves the right to change any credit or
+                payment arrangements to payment upfront.</li>
+    </li>
+
+</ol>
+</li>
+
+
+<li>Disputed charges and complaints
     <ol>
         <li>If the Customer disputes any amount charged to them, the Customer must notify the Company
             in writing within 7 days after the date the relevant charge was processed by the Company.</li>
@@ -472,8 +536,10 @@
         <li>For all complaints handling enquiries please contact the Company directly on 1300 101 10 or
             contact us using the details provided at: https://www.couriersandfreight.com.au/contact.</li>
     </ol>
+</li>
 
-    <li>Credit policy and default</li>
+
+<li>Credit policy and default
     <ol>
         <li>If the Customer fails to make payment of any monies owing to the Company under these
             Terms by the due date or breaches any other term of the Terms, the Customer will be in
@@ -513,12 +579,16 @@
         <li>A certificate of debt signed by a representative of the Company will be prima facie evidence
             and proof of money owing by the Customer to the Company at the time of certificate.</li>
     </ol>
+</li>
 
-    <li>Customer Insolvency Event</li>
+
+<li>Customer Insolvency Event
     <p>The Customer must immediately inform the Company if the Customer reasonably suspects
         that an Insolvency Event might occur or has occurred in respect of the Customer.</p>
+</li>
 
-    <li>Lien</li>
+
+<li>Lien
     <ol>
         <li>The Company may claim a general or particular lien over the Goods, and any documents or
             records relating to them for outstanding payments relating to the Services provided by the
@@ -532,9 +602,11 @@
             this clause 10. The Company sells or otherwise disposes of such Goods pursuant to this
             clause 10 as principal and not as agent and is not the trustee of the power of sale.</li>
     </ol>
+</li>
 
 
-    <li>Personal Property Securities</li>
+
+<li>Personal Property Securities
     <ol>
         <li>Without limiting the generality of clause 10, the Customer acknowledges that the Company will
             have a Security Interest which attaches over any Goods which are the subject of the Services
@@ -570,8 +642,10 @@
         </li>
 
     </ol>
+</li>
 
-    <li>Supply of Services</li>
+
+<li>Supply of Services
     <ol>
         <li>Inability of Company to provide Services
             <ol>
@@ -616,8 +690,10 @@
                 property or equipment to be used in connection with the Services.</p>
         </li>
     </ol>
+</li>
 
-    <li>GST</li>
+
+<li>GST
     <ol>
         <li>Terms used in this clause 13 that have a particular meaning in the GST Act have the same
             meaning in this clause. Any reference to GST payable by a party, or to an input tax credit
@@ -656,8 +732,10 @@
         </li>
 
     </ol>
+</li>
 
-    <li>Customer Warranties</li>
+
+<li>Customer Warranties
     <ol>
         <li>
             The Customer warrants to the Company that:
@@ -726,8 +804,10 @@
             damages pursuant to clause 15.
         </li>
     </ol>
+</li>
 
-    <li>Indemnity by the Customer</li>
+
+<li>Indemnity by the Customer
     <ol>
         <li>The Customer agrees to indemnify and keep indemnified the Company, its Related
             Companies and the Company Personnel for:
@@ -795,8 +875,10 @@
         </li>
 
     </ol>
+</li>
 
-    <li>Insurance</li>
+
+<li>Insurance
     <ol>
         <li>
             The Company may at its sole discretion make insurance cover available for the Carriage of
@@ -827,8 +909,10 @@
             </ol>
         </li>
     </ol>
+</li>
 
-    <li>Storage and transport</li>
+
+<li>Storage and transport
     <ol>
         <li>
             Subject to express instructions in writing given by the Customer and accepted by the
@@ -891,8 +975,10 @@
             </ol>
         </li>
     </ol>
+</li>
 
-    <li>Perishable, non-deliverable, uncollected, hazardous and damaged Goods</li>
+
+<li>Perishable, non-deliverable, uncollected, hazardous and damaged Goods
     <ol>
         <li>
             Where the Goods are perishable and are not taken up immediately upon arrival or are
@@ -934,8 +1020,10 @@
             by sale of the Goods.
         </li>
     </ol>
+</li>
 
-    <li>Destruction of Dangerous Goods</li>
+
+<li>Destruction of Dangerous Goods
     <p>If the Goods are found to be Dangerous Goods, they may be destroyed or otherwise dealt with
         at the sole discretion of the Company or any other person in whose custody they may be at
         15
@@ -946,8 +1034,10 @@
         hazardous and dangerous goods in the legislation governing carriage by rail, road, air and
         shipping in the states and territories of Australia and OHS Laws.
     </p>
+</li>
 
-    <li>Delivery</li>
+
+<li>Delivery
     <ol>
         <li>
             The Company and the Company Personnel on behalf of the Company, are authorised to
@@ -967,9 +1057,10 @@
             Customer or the person entitled to collect the Goods or as set out in clause 18.
         </li>
     </ol>
+</li>
 
-    <li>Railway declaration</li>
-    <ol>
+
+<li>Railway declaration<ol>
         <li>The Company is under no obligation to make any declaration to, or to seek any special
             protection or cover from any relevant Government Authority in respect of any Goods which fit
             that body's description of:
@@ -985,8 +1076,10 @@
 
         </li>
     </ol>
+</li>
 
-    <li>Pillaged Goods</li>
+
+<li>Pillaged Goods
     <ol>
         If the Goods are landed from any vessel in a damaged or pillaged condition and an
         examination might be held or other action taken by the Company in respect thereof, no
@@ -994,8 +1087,10 @@
         other action unless the Company has been given sufficient notice to enable it to arrange for
         such examination or for the taking of such other action as the case may be,
     </ol>
+</li>
 
-    <li>Storage of Goods pending delivery</li>
+
+<li>Storage of Goods pending delivery
     <ol>
         <li>
             Without limiting the effect of clause 17, pending forwarding and delivery, the Goods may be
@@ -1011,8 +1106,10 @@
             the Customer's expense and risk.
         </li>
     </ol>
+</li>
 
-    <li>Cancellations and refunds policy</li>
+
+<li>Cancellations and refunds policy
     <ol>
         <li>
             Unless otherwise expressed to the contrary in the Terms, to the extent permitted by law, and
@@ -1067,8 +1164,10 @@
             the refund to the Customer within as soon as practicable.
         </li>
     </ol>
+</li>
 
-    <li>Limitation of liability</li>
+
+<li>Limitation of liability
     <ol>
         <li>The Customer acknowledges and agrees:
             <ol>
@@ -1176,8 +1275,10 @@
 
 
     </ol>
+</li>
 
-    <li>Notification of Liability</li>
+
+<li>Notification of Liability
     <ol>
         <li>
             Any claim for loss or damage must be notified in writing to the Company within 48 hours of
@@ -1189,8 +1290,10 @@
             waives any claim for loss or damage against the Company in respect of the Services.
         </li>
     </ol>
+</li>
 
-    <li>Negotiation of Extension of Responsibility/Liability/Warranty/Insurance</li>
+
+<li>Negotiation of Extension of Responsibility/Liability/Warranty/Insurance
     <ol>
         <li>
             Upon negotiation with the Customer in writing, the Company may agree to greater
@@ -1220,8 +1323,10 @@
             of this agreement.
         </li>
     </ol>
+</li>
 
-    <li>Australian Consumer Law</li>
+
+<li>Australian Consumer Law
     <ol>
         <li>
             These Terms do not affect the Customer’s rights pursuant to the ACL if the Customer is a
@@ -1256,8 +1361,10 @@
             </ol>
         </li>
     </ol>
+</li>
 
-    <li>Guarantee, undertaking and indemnity by directors and shareholders</li>
+
+<li>Guarantee, undertaking and indemnity by directors and shareholders
     <ol>
         <li>
             Where the Customer is a company and if requested by the Company, the directors and
@@ -1270,8 +1377,10 @@
             by the Company from time-to-time.
         </li>
     </ol>
+</li>
 
-    <li>Intellectual property</li>
+
+<li>Intellectual property
     <ol>
         <li>The Customer acknowledges that the Company retains all Intellectual Property Rights in any
             documents or things created by the Company while providing its Services pursuant to these
@@ -1280,8 +1389,10 @@
             Company retains all results of any research, enquiries or investigations undertaken by it while
             providing the Services and is not obliged to provide those results to the Customer.</li>
     </ol>
+</li>
 
-    <li>Set-off and assignment</li>
+
+<li>Set-off and assignment
     <ol>
         <li>The Customer is not entitled to set off against or deduct from the price of Services sold any
             sums owed or claimed to be owed to the Customer by the Company.
@@ -1297,8 +1408,10 @@
             transfer agreement on terms specified by the Company.
         </li>
     </ol>
+</li>
 
-    <li>Force majeure</li>
+
+<li>Force majeure
     <ol>
         <li>The Company will have no liability to the Customer in relation to any loss, damage or expense
             caused by the Company’s failure to complete an Order or contract as a result of any of the
@@ -1329,7 +1442,9 @@
         </li>
     </ol>
 
-    <li>Privacy consent</li>
+</li>
+
+<li>Privacy consent
     <p>
         The Company collects, uses, stores and discloses personal information in accordance with the
         Company’s privacy policy, which the Customer acknowledges it has had an opportunity to read
@@ -1338,7 +1453,9 @@
         at Privacy1@couriersandfreight.com.au for privacy complaints
     </p>
 
-    <li>Indemnities</li>
+</li>
+
+<li>Indemnities
     <ol>
         <li>
             Each indemnity in this document:
@@ -1363,8 +1480,10 @@
             A party must pay on demand any amount it must pay under an indemnity in this document.
         </li>
     </ol>
+</li>
 
-    <li>General</li>
+
+<li>General
     <ol>
         <li>The Company may serve any notice or court document on the Customer by hand or by
             prepaid post to the address of the Customer last known to the Company or by email to an
@@ -1425,6 +1544,9 @@
             be deemed to have been entered into at the Company’s place of business.
         </li>
     </ol>
+</li>
+
+
 
 
 </OL>
